@@ -1,0 +1,43 @@
+.colourButton{
+    background-color: rgb(255,0,0);
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    box-shadow: none;
+    margin: 10px;
+}
+
+#buttonWrapper{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+#colourValue{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#answer{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#reset{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#reset-button{
+    padding: 10px;
+    background: none;
+    border: 1px solid #000;
+    margin: 10px;
+}
